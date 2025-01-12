@@ -61,12 +61,6 @@ This project leverages the following technologies:
 -**Rurangirwa Bailly** - Lead Developer and project manager
 - **Alain** - software developer
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Future Enhancements
 - Addition of new modules tailored to Maya Health Alliance's requirements.
